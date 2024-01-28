@@ -8,10 +8,8 @@ Thread-safe: Класс CrptApi разработан с учетом поток�
 Для использования CrptApi необходимо клонировать репозиторий и подключить следующие зависимости в ваш проект:
 
 Apache HttpClient для отправки HTTP-запросов:
-makefile
-Copy code
-org.apache.httpcomponents:httpclient:4.5.13
+
+  - org.apache.httpcomponents:httpclient:4.5.13
 Jackson Databind для работы с JSON:
-makefile
-Copy code
-com.fasterxml.jackson.core:jackson-databind:2.13.0
+
+  - com.fasterxml.jackson.core:jackson-databind:2.13.0
