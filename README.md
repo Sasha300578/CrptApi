@@ -4,6 +4,8 @@ public CrptApi(TimeUnit timeUnit, int requestLimit), где timeUnit – ука�
   Код программы находится в файле CrptApi.java. 
 
 Для работы кода необходимо подклчить библиотеки:
+
   org.apache.httpcomponents:httpclient:4.5.13
+  
   com.fasterxml.jackson.core:jackson-databind:2.13.0
   
