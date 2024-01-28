@@ -14,3 +14,5 @@ Apache HttpClient для отправки HTTP-запросов:
 Jackson Databind для работы с JSON:
 
   - com.fasterxml.jackson.core:jackson-databind:2.13.0
+
+Код программы находится в папке src в файле CrptApi.java
